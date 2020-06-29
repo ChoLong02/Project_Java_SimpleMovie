@@ -1,5 +1,16 @@
 # Compiled class file
 *.class
+*.swp
+*.cache
+*~
+
+bin/**/*
+target/**/*
+build/**/*
+gen/**/*
+
+# tmp source folder
+tmp/**/*
 
 # Log file
 *.log
