@@ -11,8 +11,8 @@ JAVA기반의 한국 영화 박스오피스 1~10위까지의 정보를 파싱 �
   - Version Tools: [Github, Sourcetree](https://www.sourcetreeapp.com/) 
   - Parsing URL: [한국 영화진흥위원회](https://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do)
   - Crawling URL
-    + [NAVER MOVIE](https://movie.naver.com/)
-    + [DAUM MOVIE](https://movie.daum.net/main/new#slide-1-0)
+    + [Naver movie](https://movie.naver.com/)
+    + [Daum movie](https://movie.daum.net/main/new#slide-1-0)
 
 ## :floppy_disk:Repository structure description
 #### 1.src/common
