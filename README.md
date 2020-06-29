@@ -33,7 +33,7 @@ JAVA기반의 한국 영화 박스오피스 1~10위까지의 정보를 파싱 �
   
 ## :speech_balloon:How to use?
 
-    First, you should get a key form [한국영화진흥위원회](https://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do).
+    First, you should get a key form [한국영화진흥위원회]
     
 1. BoxOfficeParser에서 발급받은 key를 교체한다.
 2. ReplyDAO에서 MongoDB를 세팅한다.(Connect, DB, Collection 등)
